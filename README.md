@@ -36,10 +36,9 @@ From nav choose Body->Raw  and json format. Paste the following data in there.
 }
 ```
 Send the request and success response is returned.
+![tempsnip](https://user-images.githubusercontent.com/70872374/147855027-abdf4259-b8c3-4b5d-a054-7515b57be17b.png)
 
-<br/>
-![tempsnip](https://user-images.githubusercontent.com/70872374/147855006-b22b8ec9-d734-4e7b-b102-afa0eb9f0ea6.png)
-<br/>
+
 
 ## Get-All Method
 
