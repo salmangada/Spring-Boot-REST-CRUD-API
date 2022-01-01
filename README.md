@@ -1,6 +1,6 @@
 # REST CRUD API Using Spring Boot
 
-#Guide
+# Guide
 
 1. Download or clone the repository.
 2. Create database 'rest_invoice' in MySQL workbench. you can choose database software of your own choice.
@@ -36,6 +36,10 @@ From nav choose Body->Raw  and json format. Paste the following data in there.
 }
 ```
 Send the request and success response is returned.
+
+<br/>
+![tempsnip](https://user-images.githubusercontent.com/70872374/147855006-b22b8ec9-d734-4e7b-b102-afa0eb9f0ea6.png)
+<br/>
 
 ## Get-All Method
 
